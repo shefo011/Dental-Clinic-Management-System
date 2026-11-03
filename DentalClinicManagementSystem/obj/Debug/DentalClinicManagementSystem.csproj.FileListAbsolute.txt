@@ -1,0 +1,9 @@
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\bin\Debug\DentalClinicManagementSystem.exe.config
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\bin\Debug\DentalClinicManagementSystem.exe
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\bin\Debug\DentalClinicManagementSystem.pdb
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.csproj.AssemblyReference.cache
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.Properties.Resources.resources
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.csproj.GenerateResource.cache
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.exe
+C:\Users\original\OneDrive\Desktop\DentalClinic-GitHub-Clone\Dental-Clinic-Management-System\DentalClinicManagementSystem\obj\Debug\DentalClinicManagementSystem.pdb
